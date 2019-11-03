@@ -1,6 +1,6 @@
 01 Nom: MOENECLAEY
-01 Prï¿½nom:
+01 Prénom: Léopold
 02 Nom: CHESNEAUX
-02 Prï¿½nom:
+02 Prénom:
 03 Nom:HERVIER
-03 Prï¿½nom:
+03 Prénom:
